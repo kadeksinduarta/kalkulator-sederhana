@@ -22,7 +22,7 @@
   width: 180px;
   height: 255px;
   border-radius: 10px;
-  background-color: #031249;
+  background-color: #292929;
 }
 
 .container .kalkulator .kalkulator-hasil {
@@ -58,6 +58,7 @@
 .container .kalkulator .kalkulator-operator input:active {
   box-shadow: 0px 0px 5px rgba(0, 118, 114, 1), 0px 0px 5px rgba(0, 193, 215, 1);
   background-color: #949494;
+  transform: scale(0.9);
 }
 
 .container .kalkulator .kalkulator-operator input.sasma-dengan {
